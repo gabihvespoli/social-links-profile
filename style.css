@@ -81,6 +81,12 @@
   font-size: 14px;
 }
 
+.content button:hover {
+  background-color: var(--green);
+  color: var(--grey800);
+  cursor: pointer;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
